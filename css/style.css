@@ -1,0 +1,158 @@
+*{
+	margin: 0;
+	padding:0;
+}
+
+.header{
+	 /*border:1px solid red; */
+	 background-color: grey;
+	min-height:100px;
+	margin-bottom: 10px ;
+
+}
+.logo{
+
+	min-height: 20px;
+    width:30%;
+	float: left;
+}
+.logo h1{
+	background-color: white;
+	border: 1px solid black;
+	padding: 10px 150px;
+	margin: 20px 20px;
+}
+.menubar{
+	min-height: 20px;
+	width:30%;
+	float:right;
+}
+.menubar h1{
+	background-color: white;
+	border: 1px solid black;
+	padding: 10px 150px;
+	margin: 20px 20px;
+
+}
+.banner{
+	/*border:1px solid green; */
+	background-color: green;
+	min-height:300px;
+    margin-bottom: 10px;
+}
+.banner h1{
+	background-color: yellow;
+	width:30%;
+	border: 1px solid black;
+	text-align: center;
+	
+
+	
+
+}
+.service{
+	background-color: yellow;
+	border:1px solid blue;
+	min-height:300px;
+	margin-bottom: 10px;
+	overflow: hidden;
+
+}
+.aside{
+	background-color: red;
+    border:1px solid black;
+	min-height:300px;
+	width:35%;
+	margin-left: 40px;
+	float:left;
+}
+.aside h1{
+	background-color: white;
+	border: 1px solid black;
+	width:40%;
+	text-align: center;
+	margin:120px;
+}
+.content{
+	background-color: red;
+	border:1px solid black;
+	min-height:300px;
+	width:55%;
+	margin-right: 30px;
+	float:right;
+}
+.content h1{
+	background-color: white;
+	border: 1px solid black;
+	width:40%;
+	text-align: center;
+	margin:100px 200px;
+
+}
+.features{
+	background-color: grey;
+	min-height: 400px;
+	border: 1px solid red;
+	margin-bottom: 10px;
+}
+.features1{
+	background-color: blue;
+	min-height: 300px;
+	width:30%;
+	border: 1px solid red;
+	float:left;
+	margin: 20px;
+	margin-top: 50px;
+
+}
+.features1 h1{
+	background-color: white;
+	border: 1px solid black;
+	text-align: center;
+	width:60%;
+	margin:70px;
+}
+.features2{
+	background-color: blue;
+	min-height: 300px;
+	width:30%;
+	border: 1px solid red;
+	float:left;
+	margin: 20px;
+	margin-top: 50px;
+}
+.features2 h1{
+	background-color: white;
+	border: 1px solid black;
+	text-align: center;
+	width:60%;
+	margin:70px;
+}
+.features3{
+	background-color: blue;
+	min-height: 300px;
+	width:30%;
+	border: 1px solid red;
+	float:right;
+	margin: 20px;
+	margin-top: 50px;
+}
+.features3 h1{
+	background-color: white;
+	border: 1px solid black;
+	text-align: center;
+	width:60%;
+	margin:70px;
+}
+.footer{
+	background-color: orange;
+	min-height: 100px;
+	border:1px solid red;
+}
+.footer h1{
+	background-color: white;
+	width:30%;
+	border: 1px solid black;
+	text-align: center;
+    margin: 20px 440px;
+}
